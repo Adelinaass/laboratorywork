@@ -1,0 +1,78 @@
+D:\4 курс\МиАОИ\лаб1\miaoi_lab1\miaoi_lab1\bin\Debug\miaoi_lab1.exe.config
+D:\4 курс\МиАОИ\лаб1\miaoi_lab1\miaoi_lab1\bin\Debug\miaoi_lab1.exe
+D:\4 курс\МиАОИ\лаб1\miaoi_lab1\miaoi_lab1\bin\Debug\miaoi_lab1.pdb
+D:\4 курс\МиАОИ\лаб1\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.csproj.AssemblyReference.cache
+D:\4 курс\МиАОИ\лаб1\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.Form1.resources
+D:\4 курс\МиАОИ\лаб1\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.Properties.Resources.resources
+D:\4 курс\МиАОИ\лаб1\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.csproj.GenerateResource.cache
+D:\4 курс\МиАОИ\лаб1\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.csproj.CoreCompileInputs.cache
+D:\4 курс\МиАОИ\лаб1\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.exe
+D:\4 курс\МиАОИ\лаб1\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.pdb
+D:\4 курс\МиАОИ\лаб1\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.Form2Gistograms.resources
+D:\4 курс\МиАОИ\лаб1\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.Form3MatrixSmeznosti.resources
+D:\4 курс\МиАОИ\лаб1дима\miaoi_lab1\miaoi_lab1\bin\Debug\miaoi_lab1.exe.config
+D:\4 курс\МиАОИ\лаб1дима\miaoi_lab1\miaoi_lab1\bin\Debug\miaoi_lab1.exe
+D:\4 курс\МиАОИ\лаб1дима\miaoi_lab1\miaoi_lab1\bin\Debug\miaoi_lab1.pdb
+D:\4 курс\МиАОИ\лаб1дима\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.Form1.resources
+D:\4 курс\МиАОИ\лаб1дима\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.Form2Gistograms.resources
+D:\4 курс\МиАОИ\лаб1дима\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.Form3MatrixSmeznosti.resources
+D:\4 курс\МиАОИ\лаб1дима\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.Form4Primitives.resources
+D:\4 курс\МиАОИ\лаб1дима\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.Properties.Resources.resources
+D:\4 курс\МиАОИ\лаб1дима\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.csproj.GenerateResource.cache
+D:\4 курс\МиАОИ\лаб1дима\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.csproj.CoreCompileInputs.cache
+D:\4 курс\МиАОИ\лаб1дима\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.exe
+D:\4 курс\МиАОИ\лаб1дима\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.pdb
+C:\дималабаудалитьпотом\лаб1дима\miaoi_lab1\miaoi_lab1\bin\Debug\miaoi_lab1.exe.config
+C:\дималабаудалитьпотом\лаб1дима\miaoi_lab1\miaoi_lab1\bin\Debug\miaoi_lab1.exe
+C:\дималабаудалитьпотом\лаб1дима\miaoi_lab1\miaoi_lab1\bin\Debug\miaoi_lab1.pdb
+C:\дималабаудалитьпотом\лаб1дима\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.csproj.AssemblyReference.cache
+C:\дималабаудалитьпотом\лаб1дима\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.Form1.resources
+C:\дималабаудалитьпотом\лаб1дима\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.Form2Gistograms.resources
+C:\дималабаудалитьпотом\лаб1дима\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.Form3MatrixSmeznosti.resources
+C:\дималабаудалитьпотом\лаб1дима\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.Form4Primitives.resources
+C:\дималабаудалитьпотом\лаб1дима\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.Properties.Resources.resources
+C:\дималабаудалитьпотом\лаб1дима\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.csproj.GenerateResource.cache
+C:\дималабаудалитьпотом\лаб1дима\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.csproj.CoreCompileInputs.cache
+C:\дималабаудалитьпотом\лаб1дима\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.exe
+C:\дималабаудалитьпотом\лаб1дима\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.pdb
+D:\4 курс\МиАОИ\лаб1дима\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.csproj.AssemblyReference.cache
+D:\Anastasia\лаб1дима\miaoi_lab1\miaoi_lab1\bin\Debug\miaoi_lab1.exe.config
+D:\Anastasia\лаб1дима\miaoi_lab1\miaoi_lab1\bin\Debug\miaoi_lab1.exe
+D:\Anastasia\лаб1дима\miaoi_lab1\miaoi_lab1\bin\Debug\miaoi_lab1.pdb
+D:\Anastasia\лаб1дима\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.csproj.AssemblyReference.cache
+D:\Anastasia\лаб1дима\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.Form1.resources
+D:\Anastasia\лаб1дима\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.Form2Gistograms.resources
+D:\Anastasia\лаб1дима\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.Form3MatrixSmeznosti.resources
+D:\Anastasia\лаб1дима\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.Form4Primitives.resources
+D:\Anastasia\лаб1дима\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.Properties.Resources.resources
+D:\Anastasia\лаб1дима\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.csproj.GenerateResource.cache
+D:\Anastasia\лаб1дима\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.csproj.CoreCompileInputs.cache
+D:\Anastasia\лаб1дима\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.exe
+D:\Anastasia\лаб1дима\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.pdb
+\\Mac\Home\Desktop\miaoi_lab1\miaoi_lab1\bin\Debug\miaoi_lab1.exe.config
+\\Mac\Home\Desktop\miaoi_lab1\miaoi_lab1\bin\Debug\miaoi_lab1.exe
+\\Mac\Home\Desktop\miaoi_lab1\miaoi_lab1\bin\Debug\miaoi_lab1.pdb
+\\Mac\Home\Desktop\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.Form1.resources
+\\Mac\Home\Desktop\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.Form2Gistograms.resources
+\\Mac\Home\Desktop\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.Form3MatrixSmeznosti.resources
+\\Mac\Home\Desktop\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.Form4Primitives.resources
+\\Mac\Home\Desktop\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.Properties.Resources.resources
+\\Mac\Home\Desktop\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.exe
+\\Mac\Home\Desktop\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.pdb
+C:\Users\Ai Sakura\OneDrive\Рабочий стол\miaoi_lab1\miaoi_lab1\bin\Debug\miaoi_lab1.exe.config
+C:\Users\Ai Sakura\OneDrive\Рабочий стол\miaoi_lab1\miaoi_lab1\bin\Debug\miaoi_lab1.exe
+C:\Users\Ai Sakura\OneDrive\Рабочий стол\miaoi_lab1\miaoi_lab1\bin\Debug\miaoi_lab1.pdb
+C:\Users\Ai Sakura\OneDrive\Рабочий стол\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.csproj.AssemblyReference.cache
+C:\Users\Ai Sakura\OneDrive\Рабочий стол\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ai Sakura\OneDrive\Рабочий стол\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.Form1.resources
+C:\Users\Ai Sakura\OneDrive\Рабочий стол\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.Form2Gistograms.resources
+C:\Users\Ai Sakura\OneDrive\Рабочий стол\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.Form3MatrixSmeznosti.resources
+C:\Users\Ai Sakura\OneDrive\Рабочий стол\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.Form4Primitives.resources
+C:\Users\Ai Sakura\OneDrive\Рабочий стол\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.Properties.Resources.resources
+C:\Users\Ai Sakura\OneDrive\Рабочий стол\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.csproj.GenerateResource.cache
+C:\Users\Ai Sakura\OneDrive\Рабочий стол\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.csproj.CoreCompileInputs.cache
+C:\Users\Ai Sakura\OneDrive\Рабочий стол\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.exe
+C:\Users\Ai Sakura\OneDrive\Рабочий стол\miaoi_lab1\miaoi_lab1\obj\Debug\miaoi_lab1.pdb
